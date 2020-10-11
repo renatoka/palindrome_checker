@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\palindrome_checker\palindrome_checker\bin\Debug\netcoreapp3.1\palindrome_checker.exe
+C:\Users\User\source\repos\palindrome_checker\palindrome_checker\bin\Debug\netcoreapp3.1\palindrome_checker.deps.json
+C:\Users\User\source\repos\palindrome_checker\palindrome_checker\bin\Debug\netcoreapp3.1\palindrome_checker.runtimeconfig.json
+C:\Users\User\source\repos\palindrome_checker\palindrome_checker\bin\Debug\netcoreapp3.1\palindrome_checker.runtimeconfig.dev.json
+C:\Users\User\source\repos\palindrome_checker\palindrome_checker\bin\Debug\netcoreapp3.1\palindrome_checker.dll
+C:\Users\User\source\repos\palindrome_checker\palindrome_checker\bin\Debug\netcoreapp3.1\palindrome_checker.pdb
+C:\Users\User\source\repos\palindrome_checker\palindrome_checker\obj\Debug\netcoreapp3.1\palindrome_checker.csprojAssemblyReference.cache
+C:\Users\User\source\repos\palindrome_checker\palindrome_checker\obj\Debug\netcoreapp3.1\palindrome_checker.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\palindrome_checker\palindrome_checker\obj\Debug\netcoreapp3.1\palindrome_checker.AssemblyInfo.cs
+C:\Users\User\source\repos\palindrome_checker\palindrome_checker\obj\Debug\netcoreapp3.1\palindrome_checker.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\palindrome_checker\palindrome_checker\obj\Debug\netcoreapp3.1\palindrome_checker.dll
+C:\Users\User\source\repos\palindrome_checker\palindrome_checker\obj\Debug\netcoreapp3.1\palindrome_checker.pdb
+C:\Users\User\source\repos\palindrome_checker\palindrome_checker\obj\Debug\netcoreapp3.1\palindrome_checker.genruntimeconfig.cache
